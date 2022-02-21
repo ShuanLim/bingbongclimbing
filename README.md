@@ -11,7 +11,7 @@ A webpage showcasing Shuan Lim's climbing and climbing related interests.
 
 ## Website
 
-www.placeholder.com
+https://shuanlim.github.io/bingbongclimbing/
 
 ## Screenshot
 
